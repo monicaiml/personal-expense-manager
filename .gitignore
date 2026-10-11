@@ -1,0 +1,13 @@
+# Configuración y credenciales
+config.properties
+
+# Archivos compilados de Java
+*.class
+
+# Configuración local de Visual Studio Code
+.vscode/
+
+# Archivos temporales y del sistema
+*.log
+.DS_Store
+Thumbs.db

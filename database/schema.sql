@@ -1,0 +1,11 @@
+
+CREATE TABLE EXPENSES
+(
+id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+fecha DATE,
+importe NUMERIC (6,2),
+categoria VARCHAR (20),
+descripcion VARCHAR (255)
+
+);
+
