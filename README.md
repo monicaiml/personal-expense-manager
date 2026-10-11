@@ -38,13 +38,13 @@ Durante el desarrollo se han trabajado las siguientes fases:
 7. Preparación de la documentación para publicar el proyecto en GitHub.
 
 ## 📸 Capturas de pantalla
-```html
-<img src="images/menu-principal.png" alt="Menú principal de Personal Expense Manager" width="600" style="max-width: 100%; height: auto;">
 
-<img src="images/lista-gastos.png" alt="Listado de gastos almacenados" width="600" style="max-width: 100%; height: auto;">
+![Menú principal de Personal Expense Manager](images/menu-principal.png)
 
-<img src="images/estructura-proyecto.png" alt="Estructura del proyecto en Visual Studio Code" width="600" style="max-width: 100%; height: auto;">
-```
+![Listado de gastos almacenados](images/lista-gastos.png)
+
+![Estructura del proyecto en Visual Studio Code](images/estructura-proyecto.png)
+
 
 
 
